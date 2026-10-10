@@ -1,0 +1,6 @@
+.vagrant/
+*.box
+*.iso
+packer_cache/
+crash.log
+.DS_Store
